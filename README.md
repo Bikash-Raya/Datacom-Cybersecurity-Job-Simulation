@@ -8,9 +8,12 @@
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](https://github.com)
 [![Forage](https://img.shields.io/badge/Platform-Forage-orange?style=for-the-badge)](https://www.theforage.com)
 
-<img src="[img.shields.io](https://img.shields.io/badge/APT34-Threat%20Intelligence-red?style=flat-square)" />
-<img src="[img.shields.io](https://img.shields.io/badge/MITRE%20ATT%26CK-Framework-yellow?style=flat-square)" />
-<img src="[img.shields.io](https://img.shields.io/badge/Risk%20Assessment-Methodology-purple?style=flat-square)" />
+<img src="https://img.shields.io/badge/APT34-Threat%20Intelligence-red?style=flat-square" />
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-TTP%20Mapping-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/OSINT-Research-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Risk%20Assessment-Analysis-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/NIST-Framework-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Defense--in--Depth-Security-orange?style=flat-square" />
 
 ---
 
