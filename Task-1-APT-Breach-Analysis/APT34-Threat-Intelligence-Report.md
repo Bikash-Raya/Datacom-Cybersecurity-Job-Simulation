@@ -203,9 +203,4 @@ APT34 remains a **highly capable and persistent state-sponsored threat actor**. 
 
 ---
 
-## 📄 Report Metadata
-
-**Prepared By:** Bikash Raya  
-**Role:** Cybersecurity Consultant  
-**Classification:** CONFIDENTIAL  
-**Distribution:** Internal Use Only  
+<div align="center"> **Report Prepared By:** Bikash Raya Cybersecurity Consultant Datacom **Classification:** CONFIDENTIAL **Distribution:** Client Leadership Team Only </div>
